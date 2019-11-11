@@ -7,9 +7,9 @@ class Database
     private $conn;
     // specify database credentials
     private $Host = "localhost";
-    private $DatabaseName = "baity721_mydb";
-    private $UserName = "baity721_root";
-    private $Password = "baity)($)(%^%%&789A";
+    private $DatabaseName = "dbName";
+    private $UserName = "root";
+    private $Password = "";
 
     
     #This method will connect to the database
