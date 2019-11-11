@@ -7,7 +7,7 @@ class Database
     private $conn;
     // specify database credentials
     private $Host = "localhost";
-    private $DatabaseName = "dbName";
+    private $DatabaseName = "db";
     private $UserName = "root";
     private $Password = "";
 
